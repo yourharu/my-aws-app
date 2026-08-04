@@ -6,7 +6,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <h1>Hello World! Saya dah pandai deploy ke AWS Amplify!</h1>
+        <h1>HELLO FROM V2</h1>
         <a
           className="App-link"
           href="https://reactjs.org"
